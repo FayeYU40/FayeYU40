@@ -27,9 +27,8 @@
 - 邮箱📫：3850892341@qq.com / yuhuifei@wanjiadongli.com
 - QQ🐧：3850892341
 - 微信📧：Wjdl2104
-- 或扫码加我微信进一步沟通：
 
-[![微信二维码](https://s21.ax1x.com/2025/05/30/pVpxJhD.jpg)](https://imgse.com/i/pVpxJhD)
+
 
 > 期待与更多有才华的开发者携手合作，共同打造PC端工具新生态！
 
